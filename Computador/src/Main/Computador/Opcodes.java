@@ -44,5 +44,4 @@ public class Opcodes {
     public static final int BUSCAR_BIT = 40;  // Busca primer bit activo en R2, resultado en R1
     public static final int SET_BIT = 41;     // Pone a 1 el bit 'ext' de R1
     public static final int LIMPIAR_BIT = 42; // Pone a 0 el bit 'ext' de R1
-
 }
